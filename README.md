@@ -1,3 +1,3 @@
 # django
 
-It is django
+It is django demo
